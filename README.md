@@ -1,4 +1,4 @@
-##Smart Contract Audit/ Known Issue Report
+## Smart Contract Audit/ Known Issue Report
 
 developer or auditor? we got you covered
 
