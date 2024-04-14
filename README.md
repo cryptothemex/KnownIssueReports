@@ -6,4 +6,4 @@ we find trivial known solidity issues for you so that you focus on bigger things
 
 **DM for free Known Issue Summary Report**
 
-twitter - @cryptoThemeX
+twitter - [@cryptoThemeX](https://twitter.com/cryptoThemeX)
